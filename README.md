@@ -47,3 +47,4 @@ My personal portfolio. features my github project as well as my resume and techn
 - CSS
 
 ## View
+Deployed link - ("https://react-made.herokuapp.com/")
